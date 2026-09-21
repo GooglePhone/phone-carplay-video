@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!--
+      佔位檔。真正的 CarPlay Video entitlement 需要向 Apple 個案申請、
+      核准後才會拿到對應的 entitlement key，屆時加進這裡。
+      申請入口：https://developer.apple.com/contact/carplay/
+    -->
+</dict>
+</plist>
